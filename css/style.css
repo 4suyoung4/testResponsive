@@ -4,7 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
-​
 
 body{
 
@@ -14,7 +13,6 @@ body{
 
 a{  color:#151515;   }
 
-​
 
 #main_header{
 
@@ -41,7 +39,6 @@ h1 img{   width:100%;  height:auto;  object-fit: contain;   }
 
 }
 
-​
 
 #main_container>.slide_container{  position:relative;   /* control btn position 부모역할  */ }
 
@@ -71,7 +68,6 @@ h1 img{   width:100%;  height:auto;  object-fit: contain;   }
 
 }
 
-​
 
 #main_container>.banner{   display:flex;  flex-direction:column;  /* flex-flow:column nowrap; */   }
 
@@ -101,7 +97,6 @@ h1 img{   width:100%;  height:auto;  object-fit: contain;   }
 
 #main_container>.banner>.edge>a>figure>figcaption{   color:#ededed;   }
 
-​
 
 #main_container>.galaxy{   padding:30px 0 40px;   }
 
@@ -130,8 +125,6 @@ h1 img{   width:100%;  height:auto;  object-fit: contain;   }
   background:rgba(0,51,154,1);  color:#fff;
 
 }
-
-​
 
 body{  position:relative;  }
 
